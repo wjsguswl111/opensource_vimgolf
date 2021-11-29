@@ -2,32 +2,25 @@
 
 #### 1. Add quotes to ansible playbook
 
-실행
+######실행
 ```shell
 $ vimgolf put 5f0f5fbe280fbf000c233304
 ```
-최고점 : 8
+########최고점 : 8
 
-GWi"<End>"<Esc>ZZ
+  GWi"<End>"<Esc>ZZ
 
-  최고점 : 9
+  ########최고점 : 9
 
-명령어  
+  ######명령어  
 
   G : 파일 끝 줄로 이동
-
   W : 다음 공백 뒤로 이동
-
   i : 문자 입력
-
   " : "(큰따옴표) 입력
-
   <End> : 문장 끝으로 이동
-
   " : "(큰따옴표) 입력
-
   <Esc> : 입력 종료
-
   ZZ : 저장 후 종료(= :wq)
 
 #### 2. simple replacements
