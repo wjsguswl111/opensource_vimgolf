@@ -61,11 +61,46 @@ $ vimgolf put 603ba26a01b4d00009c10a49
 
 ## 3. Satisfy the go linter
 
-실행
+#### 실행
 ```shell
 $ vimgolf put 5f1063aa8361810006e73210
 ```
-최고점 : 20
+  ##### 최고점 : 20
+  
+  ##### <초기실행>
+  
+  G-O// <C-N> TODO<Esc>-O// <C-N> TODO<Esc>ZZ
+  ##### 최고점 : 27
+  
+  #### 명령어
+  * G : 문장 맨 끝으로 이동
+  
+  * - : 이전 줄로 이동
+  
+  * O : 행 위에 문자 삽입
+  
+  * //  : // 입력
+  
+  * <C-N> : 자동채우기
+  
+  *  TODO :  TODO 입력
+  
+  * <Esc> : 입력 모드 종료
+  
+  * - : 이전 줄로 이동
+  
+  * O : 행 위에 문자 삽입
+  
+  * //  : // 입력
+  
+  * <C-N> : 자동채우기
+  
+  *  TODO :  TODO 입력
+  
+  * <Esc> : 입력 모드 종료
+  
+  * ZZ : 저장 후 종료
+  
 
 ## 4. Plotting some variables in python
 
