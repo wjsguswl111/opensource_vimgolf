@@ -142,6 +142,25 @@ $ vimgolf put 5f1063aa8361810006e73210
   * Esc : 입력 모드 종료
   
   * ZZ : 저장 후 종료
+
+
+###### <최종 실행>
+```shell
+4GqaO// <C-N> TODO<Esc>6Gq@aZZ
+```
+##### 최고점 : 22
+
+#### 명령어
+* 4G : 4번째 줄로 이동
+* qa : 레지스터에 작업을 기록
+* O : 행위에 삽입
+* //  : // 내용 삽입
+* C-N : 자동 채우기
+*  TODO :  TODO 내용 삽입
+*  Esc : 입력 종료
+*  6G : 6번째 줄로 이동
+*  q@a : 기록된 매크로 재생
+*  ZZ : 저장 후 
   
 
 ## 4. Plotting some variables in python
