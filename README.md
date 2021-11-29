@@ -30,13 +30,34 @@ $ vimgolf put 5f0f5fbe280fbf000c233304
     
   * ZZ : 저장 후 종료(= :wq)
 
+  
 ## 2. simple replacements
 
-실행
+#### 실행
 ```shell
 $ vimgolf put 603ba26a01b4d00009c10a49
 ```
-최고점 : 19
+  ##### 최고점 : 19
+  
+  ##### <초기실행>
+  
+  :%s/sublime\|emacs/vim/g<CR>ZZ
+  ##### 최고점 : 27
+  
+  #### 명령어
+  * :%s : 모든 범위 문자에서 바꿀 내용 입력 후 검색 및 치환
+  
+  * /sublime\|emacs : 모든 범위에서 검색할 문자
+  
+  * /vim : 바꿀 문자
+  
+  * /g : 여러 패턴이 나오면 모두 변경
+  
+  * <CR> : 엔터
+  
+  * ZZ : 저장 후 종료
+  
+  
 
 ## 3. Satisfy the go linter
 
