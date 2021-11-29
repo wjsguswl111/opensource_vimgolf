@@ -28,6 +28,17 @@ $ vimgolf put 5f0f5fbe280fbf000c233304
   * <Esc> : 입력 종료
     
   * ZZ : 저장 후 종료(= :wq)
+  
+  #### 실행 영상
+  
+  
+  ##### <최종 실행>
+  ```shell
+  GWi"<End><C-@>ZZ
+  ```
+  ##### 최고점 : 8
+  
+  #### 
 
   
 ## 2. simple replacements
