@@ -12,6 +12,7 @@ $ vimgolf put 5f0f5fbe280fbf000c233304
   ```shell
   GWi"<End>"<Esc>ZZ
   ```
+  ![1번 초기실행](https://user-images.githubusercontent.com/76931115/144583275-3e4bab40-cad6-48e6-beed-b85edfebab92.jpg)
   ##### 최고점 : 9
 
   #### 명령어  
@@ -36,6 +37,8 @@ $ vimgolf put 5f0f5fbe280fbf000c233304
   ```shell
   GWi"<End><C-@>ZZ
   ```
+  ![1번 최종실행](https://user-images.githubusercontent.com/76931115/144583362-c9b6a02c-b35c-4b4f-97bb-ac6e3576fe92.jpg)
+
   ##### 최고점 : 8
   
   ##### 명령어
@@ -68,6 +71,8 @@ $ vimgolf put 603ba26a01b4d00009c10a49
   ```shell
   :%s/sublime\|emacs/vim/g<CR>ZZ
   ```
+  ![2번 초기실행](https://user-images.githubusercontent.com/76931115/144583454-e33609e8-ee34-4180-9b7e-d788e08942dc.jpg)
+
   ##### 최고점 : 27
   
   #### 명령어
@@ -88,6 +93,8 @@ $ vimgolf put 603ba26a01b4d00009c10a49
   ```shell
   w*:s//vim/g<CR>}}B*g&ZZ
   ```
+  ![2번 최종실행1](https://user-images.githubusercontent.com/76931115/144583480-3c3a0206-f629-42ab-8e16-8083b25a1d70.jpg)
+
   ##### 최고점 : 20
   
   #### 명령어
@@ -115,6 +122,8 @@ $ vimgolf put 603ba26a01b4d00009c10a49
   ```shell
   w*:s//vim/g<CR>G7W*g&ZZ
   ```
+  ![2번 최종실행2](https://user-images.githubusercontent.com/76931115/144583517-f2d4dcae-cc48-4664-b95d-6803df3435db.jpg)
+
   ##### 최고점 : 20
   
   #### 명령어
@@ -147,12 +156,15 @@ $ vimgolf put 603ba26a01b4d00009c10a49
 ```shell
 $ vimgolf put 5f1063aa8361810006e73210
 ```
+
   ##### 최고점 : 20
   
   ##### <초기실행>
   ```shell
   G-O// <C-N> TODO<Esc>-O// <C-N> TODO<Esc>ZZ
   ```
+  ![3번 초기실행](https://user-images.githubusercontent.com/76931115/144583562-accb3097-4582-4187-8a08-f8775b6d447b.jpg)
+
   ##### 최고점 : 27
   
   #### 명령어
@@ -177,6 +189,8 @@ $ vimgolf put 5f1063aa8361810006e73210
 ```shell
 4GqaO// <C-N> TODO<Esc>6Gq@aZZ
 ```
+![3번 최종실행](https://user-images.githubusercontent.com/76931115/144583603-34cb26a2-eb16-4ea5-a05f-861f82587990.jpg)
+
 ##### 최고점 : 22
 
 #### 명령어
@@ -204,6 +218,8 @@ $ vimgolf put 9v0060da5177000000000209
   ```shell
   :%s/y1/abs(y1)/g<CR>3G/x<CR><C-A>n<C-A><C-A>n<C-A><C-A><C-A>3G/y<CR><C-A>n<C-A><C-A>n<C-A><C-A><C-A>3G/#<CR><C-A>n<C-A><C-A>n<C-A><C-A><C-A>3G/k<CR>sb<Esc>nsr<Esc>nsg<Esc>ZZ
   ```
+  ![4번 초기실행](https://user-images.githubusercontent.com/76931115/144583658-f8d188cf-cc39-461b-a7f8-f6b4194898a3.jpg)
+
   ##### 최고점 : 74
   
   #### 명령어
@@ -239,6 +255,8 @@ $ vimgolf put 9v0060da5177000000000209
 ```shell
 :%s/y1/abs(y1)/g<CR>:3s/1/2/g<CR>:4s/1/3/g<CR>:5s/1/4/g<CR>3G/k<CR>sb<Esc>nsr<Esc>nsg<Esc>ZZ
 ```
+![4번 최종실행](https://user-images.githubusercontent.com/76931115/144583694-6d21e286-88ed-464d-b918-bb0a9236c896.jpg)
+
 ##### 최고점 : 65
 
 #### 명령어
@@ -267,6 +285,8 @@ $ vimgolf put 6013804df3308e0009368f1c
   ```shell
   /"<CR>as<C-N><Down><CR>,n<C-N>,a<C-N>,s<C-P><Up><CR><Esc>ZZ
   ```
+  ![5번 초기실행](https://user-images.githubusercontent.com/76931115/144583733-72f9a628-0f70-4333-a385-1b5b54563f45.jpg)
+
   ##### 최고점 : 22
   
   #### 명령어
@@ -294,6 +314,8 @@ $ vimgolf put 6013804df3308e0009368f1c
 ```shell
 GBastu<C-P>,n<C-N>,a<C-N>,sc<C-N><Esc>ZZ
 ```
+![5번 최종실행](https://user-images.githubusercontent.com/76931115/144583772-fae1a2d9-8d88-4b01-ace2-693977bfe005.jpg)
+
 ##### 최고점 : 20
 
 #### 명령어
