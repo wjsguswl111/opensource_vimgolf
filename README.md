@@ -127,7 +127,7 @@ $ vimgolf put 5f1063aa8361810006e73210
 ```
 ##### 최고점 : 20
   
-##### <초기실행>
+##### <초기 실행>
 ```shell
 G-O// <C-N> TODO<Esc>-O// <C-N> TODO<Esc>ZZ
 ```
@@ -237,7 +237,7 @@ $ vimgolf put 6013804df3308e0009368f1c
 ```
 ##### 최고점 : 19
   
-##### <초기실행>
+##### <초기 실행>
 ```shell
 /"<CR>as<C-N><Down><CR>,n<C-N>,a<C-N>,s<C-P><Up><CR><Esc>ZZ
 ```
