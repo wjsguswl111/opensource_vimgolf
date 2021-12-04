@@ -8,7 +8,7 @@ $ vimgolf put 5f0f5fbe280fbf000c233304
 ```
 ##### 최고점 : 8
   
-###### <초기 실행>
+###### <초기실행>
 ```shell
 GWi"<End>"<Esc>ZZ
 ```
@@ -27,7 +27,7 @@ GWi"<End>"<Esc>ZZ
 #### 실행 영상
 ![1번 초기실행](https://user-images.githubusercontent.com/76931115/144709092-5f74d948-95b9-4907-82ca-139ec667bc65.gif)
 
-###### <최종 실행>
+###### <최종실행>
 ```shell
 GWi"<End><C-@>ZZ
 ```
@@ -56,7 +56,7 @@ $ vimgolf put 603ba26a01b4d00009c10a49
 ```
 ##### 최고점 : 19
   
-##### <초기 실행>
+##### <초기실행>
 ```shell
 :%s/sublime\|emacs/vim/g<CR>ZZ
 ```
@@ -74,7 +74,7 @@ $ vimgolf put 603ba26a01b4d00009c10a49
 #### 실행 영상
 ![2번 초기실행](https://user-images.githubusercontent.com/76931115/144709119-aa05fa19-6bfb-4e1f-8b0a-b983da37cbca.gif)
  
-###### <최종 실행1>
+###### <최종실행1>
 ```shell
 w*:s//vim/g<CR>}}B*g&ZZ
 ```
@@ -95,7 +95,7 @@ w*:s//vim/g<CR>}}B*g&ZZ
 #### 실행 영상
 ![2번 최종실행1](https://user-images.githubusercontent.com/76931115/144709132-a26a12f8-b626-4f4c-aa25-f7a069b0e76d.gif)
 
-###### <최종 실행2>
+###### <최종실행2>
 ```shell
 w*:s//vim/g<CR>G7W*g&ZZ
 ```
@@ -127,7 +127,7 @@ $ vimgolf put 5f1063aa8361810006e73210
 ```
 ##### 최고점 : 20
   
-##### <초기 실행>
+##### <초기실행>
 ```shell
 G-O// <C-N> TODO<Esc>-O// <C-N> TODO<Esc>ZZ
 ```
@@ -147,7 +147,7 @@ G-O// <C-N> TODO<Esc>-O// <C-N> TODO<Esc>ZZ
 #### 실행 영상
 ![3번 초기실행](https://user-images.githubusercontent.com/76931115/144709147-8b209585-67be-4513-a864-1b1ec91cd827.gif)
 
-###### <최종 실행>
+###### <최종실행>
 ```shell
 4GqaO// <C-N> TODO<Esc>6Gq@aZZ
 ```
@@ -205,7 +205,7 @@ $ vimgolf put 9v0060da5177000000000209
 #### 실행 영상
 ![4번 초기실행](https://user-images.githubusercontent.com/76931115/144709162-4a659665-aa26-4821-a39d-a5fa6ddae739.gif)
 
-###### <최종 실행>
+###### <최종실행>
 ```shell
 :%s/y1/abs(y1)/g<CR>:3s/1/2/g<CR>:4s/1/3/g<CR>:5s/1/4/g<CR>3G/k<CR>sb<Esc>nsr<Esc>nsg<Esc>ZZ
 ```
@@ -238,7 +238,7 @@ $ vimgolf put 6013804df3308e0009368f1c
 ```
 ##### 최고점 : 19
   
-##### <초기 실행>
+##### <초기실행>
 ```shell
 /"<CR>as<C-N><Down><CR>,n<C-N>,a<C-N>,s<C-P><Up><CR><Esc>ZZ
 ```
@@ -260,7 +260,7 @@ $ vimgolf put 6013804df3308e0009368f1c
 #### 실행 영상
 ![5번 초기실행](https://user-images.githubusercontent.com/76931115/144709177-3e170294-db88-40ed-a1c3-8d7c603ae34e.gif)
 
-###### <최종 실행>
+###### <최종실행>
 ```shell
 GBastu<C-P>,n<C-N>,a<C-N>,sc<C-N><Esc>ZZ
 ```
