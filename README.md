@@ -25,7 +25,7 @@ GWi"<End>"<Esc>ZZ
 * ZZ : 저장 후 종료(= :wq)
   
 #### 실행 영상
-
+![1번 초기실행](https://user-images.githubusercontent.com/76931115/144709092-5f74d948-95b9-4907-82ca-139ec667bc65.gif)
 
 ###### <최종 실행>
 ```shell
@@ -44,7 +44,7 @@ GWi"<End><C-@>ZZ
 * ZZ : 저장 후 종료
   
 #### 실행 영상
-
+![1번 최종실행](https://user-images.githubusercontent.com/76931115/144709107-294a4e04-4a5d-4a43-8dd6-3a2e674de4c2.gif)
 
 
 
@@ -72,7 +72,7 @@ $ vimgolf put 603ba26a01b4d00009c10a49
 * ZZ : 저장 후 종료
 
 #### 실행 영상
-  
+![2번 초기실행](https://user-images.githubusercontent.com/76931115/144709119-aa05fa19-6bfb-4e1f-8b0a-b983da37cbca.gif)
  
 ###### <최종 실행1>
 ```shell
@@ -93,7 +93,7 @@ w*:s//vim/g<CR>}}B*g&ZZ
 * ZZ : 저장 후 종료
   
 #### 실행 영상
-
+![2번 최종실행1](https://user-images.githubusercontent.com/76931115/144709132-a26a12f8-b626-4f4c-aa25-f7a069b0e76d.gif)
 
 ###### <최종 실행2>
 ```shell
@@ -115,7 +115,7 @@ w*:s//vim/g<CR>G7W*g&ZZ
 * ZZ : 저장 후 종료
   
 #### 실행 영상
-  
+![2번 최종실행2](https://user-images.githubusercontent.com/76931115/144709142-774b31f7-fa30-4a7b-a289-ee4bb76f6697.gif)
 
 
 
@@ -145,6 +145,7 @@ G-O// <C-N> TODO<Esc>-O// <C-N> TODO<Esc>ZZ
 * ZZ : 저장 후 종료
 
 #### 실행 영상
+![3번 초기실행](https://user-images.githubusercontent.com/76931115/144709147-8b209585-67be-4513-a864-1b1ec91cd827.gif)
 
 ###### <최종 실행>
 ```shell
@@ -166,7 +167,7 @@ G-O// <C-N> TODO<Esc>-O// <C-N> TODO<Esc>ZZ
 *  ZZ : 저장 후 
   
 #### 실행영상
-
+![3번 최종실행](https://user-images.githubusercontent.com/76931115/144709156-ac07523f-c964-418b-a23a-b2a29586d465.gif)
 
 
 
@@ -202,7 +203,7 @@ $ vimgolf put 9v0060da5177000000000209
 * ZZ : 저장 후 종료 
 
 #### 실행 영상
-
+![4번 초기실행](https://user-images.githubusercontent.com/76931115/144709162-4a659665-aa26-4821-a39d-a5fa6ddae739.gif)
 
 ###### <최종 실행>
 ```shell
@@ -225,7 +226,7 @@ $ vimgolf put 9v0060da5177000000000209
 * ZZ : 저장 후 종료
 
 #### 실행 영상
-
+![4번 최종실행](https://user-images.githubusercontent.com/76931115/144709172-c53b5adf-24c0-49d3-b191-b5ff3a7ca1b5.gif)
 
 
 
@@ -257,7 +258,7 @@ $ vimgolf put 6013804df3308e0009368f1c
 * ZZ : 저장 후 종료
 
 #### 실행 영상
-
+![5번 초기실행](https://user-images.githubusercontent.com/76931115/144709177-3e170294-db88-40ed-a1c3-8d7c603ae34e.gif)
 
 ###### <최종 실행>
 ```shell
@@ -278,4 +279,4 @@ GBastu<C-P>,n<C-N>,a<C-N>,sc<C-N><Esc>ZZ
 * ZZ : 저장 후 종료
 
 #### 실행 영상
-
+![5번 최종실행](https://user-images.githubusercontent.com/76931115/144709186-9e469c82-01f6-472b-8220-7b2822a4cf48.gif)
