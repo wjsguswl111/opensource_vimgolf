@@ -280,3 +280,7 @@ GBastu<C-P>,n<C-N>,a<C-N>,sc<C-N><Esc>ZZ
 
 #### 실행 영상
 ![5번 최종실행](https://user-images.githubusercontent.com/76931115/144709186-9e469c82-01f6-472b-8220-7b2822a4cf48.gif)
+
+## vim 단축키
+![vim](https://user-images.githubusercontent.com/76931115/144744532-4f8add2b-4fd2-434f-95ce-95e827e3b371.png)
+
